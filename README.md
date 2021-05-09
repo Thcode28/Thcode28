@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thcode28
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML5 y CSS
+- 🌱 I’m currently learning ... HTML5 y CSS3
 - 📫 How to reach me ...thcodec@gmail.com
 
 <!---
