@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thcode28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML5, CSS3, JS and PHP
-- 📫 How to reach me ...thcodec@gmail.com
+- 👋 Hola!, soy ThcodeC
+- 👀 Me especializo en el Desarrollo Web
+- 🌱 Estoy aprendiendo HTML5, CSS3, JS and PHP
+- 📫 Pudes contactar conmigo aquí thcodec@gmail.com
